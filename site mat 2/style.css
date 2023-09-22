@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header {
+    background-color: #555555;
+    color: white;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.cabecalho-imagem{
+width: 8%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.oly-singing{
+    width: 20%;
+    height: 20%;
+}
+   
+.escola{
+    background-color: #555555;
+    display: flex;
+}
+
+.escola-texto-um{
+    font-family: 'Didact Gothic', sans-serif;
+font-family: 'Neuton', serif;
+
+    width: 60%;
+    font-size: 40px;
+    justify-content: center;
+    
+}
+
+
+.eu-mesmo{
+    width: 220px;
+}
+
+.github-icone{
+    width: 24px;
+}
+
+.deniel{
+    text-align: center;
+    display: grid;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.rodape{
+    background-color: black;
+}
